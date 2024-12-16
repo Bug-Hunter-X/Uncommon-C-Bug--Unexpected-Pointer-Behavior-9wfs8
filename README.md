@@ -1,0 +1,1 @@
+This repository showcases an uncommon bug in C programming related to pointer arithmetic and memory management. The bug.c file contains the problematic code, while bugSolution.c provides a corrected version with explanations. The issue involves potential unexpected pointer behavior, memory leaks, and undefined behavior that may arise from incorrect use of pointers. 
